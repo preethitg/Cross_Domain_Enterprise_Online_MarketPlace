@@ -1,0 +1,10 @@
+admin,test123,Hoang Thy Vo,administrator
+thyvo,test123,Thy Vo,administrator
+locbui,test123,Loc Bui,user
+micbui,test123,Mic Bui,user
+user1,test123,Minh Nguyen,user
+user2,test123,Thinh Vo,user
+user3,test123,Cac Nguyen,user
+vendor1,test123,Huy Nguyen,vendor
+vendor2,test123,Huong Tran,vendor
+vendor3,test123,Hoang Zim,vendor
